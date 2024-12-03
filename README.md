@@ -27,8 +27,10 @@ Installation
 
 Usage:
 1. Run the `password_checker.py` script.
-2. Input a password when prompted.
-3. The program will evaluate the password's strength and provide feedback.
+2. Download the commonpassword.txt file as well
+3. Input a password when prompted.
+4. The program will evaluate the password's strength and provide feedback.
+5. https://youtu.be/btJ-KJ9ohpw use this link to help yourself while running the code
 
 Contributing
 - Fork the repository.
